@@ -1,0 +1,8 @@
+Taným : 
+
+Bu Projenin amacý, youtube'un sunulan apisi sayesinde youtube'da þarký aratýlarak istenilen þarkýyý telefona indirilmesi.
+Program içerisinde ayrýca indirilen müzik dinlenebilir.
+
+Kullanýlanlar :
+
+Android (Hybrit) : HTML5 + Jquery + CSS + Youtube apisi + Youtube Ýndirme Servisi
