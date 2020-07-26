@@ -1,5 +1,5 @@
-## MuzikDepom
-# Youtubedan Müzik İndirme Mobil Uygulaması
+# MuzikDepom
+## Youtubedan Müzik İndirme Mobil Uygulaması
 
 
 Bu Projenin amacı, youtube'un sunulan apisi sayesinde youtube'da şarkı aratılarak istenilen şarkıyı telefona indirilmesi.
